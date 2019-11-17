@@ -1,4 +1,4 @@
-DHS2019_GNN
+Graph Neural Networks @ Data Hack Summit 2019
 =========
 
 Tutorials on Graph Neural Networks for the DHS 2019 hack session.
