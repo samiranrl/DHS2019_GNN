@@ -7,9 +7,9 @@ https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-graph
 
 Slides: http://bit.ly/dhs2019gnn
 
-<img src="images/karate_club_embeddings_realtime.png" width="300" height="300">
+![](karate_club_embeddings_realtime.gif)
 
-We label one point from each class (the ones with the grey border)
+Labeling one point from each class (the ones with the grey border), and watch the network learn in real-time
 
 ## Layout
 
